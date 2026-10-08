@@ -56,7 +56,6 @@ The major objectives of this project are:
 - **Matplotlib**
 - **Seaborn**
 - **Jupyter Notebook**
-- **GitHub**
 
 ---
 
@@ -120,16 +119,14 @@ The `features` column contains multiple laptop specifications in text format. Th
 
 The raw dataset includes information related to:
 
+- Brand
 - Processor
 - RAM
-- Storage
+- SSD
 - Display
-- Operating System
-- Graphics
+- Discount
 - Product Price
 - Ratings
-- Reviews
-- Other laptop specifications
 
 The raw data required further cleaning and transformation before analysis.
 
@@ -163,76 +160,14 @@ Several laptop specifications were stored together inside the `features` column.
 
 The important features extracted from the laptop specifications include:
 
+- Brand
 - Processor
 - RAM
 - Storage
 - Display Size
-- Display Resolution
-- Operating System
-- Graphics
 - Other relevant specifications
 
 The extracted information was stored in separate columns to make the dataset structured and easier to analyze.
-
----
-
-## 💻 5. Processor Extraction
-
-Processor information was extracted from the laptop feature descriptions using **Python and Regular Expressions**.
-
-The processor analysis helps identify:
-
-- Processor brands
-- Processor families
-- Processor categories
-- Most common processors
-- Processor distribution
-- Price differences across processor categories
-
----
-
-## 🖥️ 6. Display Analysis
-
-Display-related information was extracted from the laptop product specifications.
-
-The analysis includes:
-
-- Display size
-- Display dimensions
-- Display-related specifications
-- Distribution of laptop display sizes
-
-Display measurements were standardized where possible to make comparisons easier during analysis.
-
----
-
-## 💾 7. RAM & Storage Analysis
-
-RAM and storage specifications were extracted from the product features and converted into structured columns.
-
-The analysis helps identify:
-
-- Common RAM configurations
-- Common storage capacities
-- Popular laptop configurations
-- Relationship between RAM and price
-- Relationship between storage and price
-
----
-
-## 💰 8. Price Analysis
-
-Laptop prices were cleaned and converted into numerical values for analysis.
-
-Price analysis helps understand:
-
-- Minimum laptop price
-- Maximum laptop price
-- Average laptop price
-- Price distribution
-- Price differences across specifications
-- Budget laptop segments
-- Premium laptop segments
 
 ---
 
@@ -242,14 +177,11 @@ Exploratory Data Analysis (EDA) was performed to identify patterns, trends, and 
 
 The analysis focuses on:
 
-- Price distribution
-- Processor distribution
-- RAM distribution
-- Storage distribution
-- Display size distribution
-- Rating distribution
-- Review patterns
-- Specification versus price relationships
+- Univariate analysis: Brand, Processor, RAM and SSD distributions.
+- Bivariate analysis: Brand/Processor/RAM/SSD compared with laptop price.
+- Multivariate analysis: Brand + RAM + SSD combinations compared with price.
+- Premium segment analysis: laptops priced above ₹1,00,000.
+- Visualizations were created to communicate the major patterns.
 
 Various visualizations were created using **Matplotlib** and **Seaborn** to make the findings easier to understand.
 
@@ -291,18 +223,55 @@ The analysis helps identify important insights about the laptop market, includin
 
 ---
 
-## 📂 12. Project Structure
+## 🎯 12. Recommendations
 
-    Laptop-Market-Analysis/
-    │
-    ├── 📓 Laptop_Market_Analysis_Project_scraped1.ipynb
-    │
-    ├── 📓 Laptop_Market_Analysis_Project_clean&Analysing2.ipynb
-    │
-    ├── 📄 scrapped_data.csv
-    │
-    ├── 📄 Final_Cleaned_Dataset.csv
-    │
-    ├── 📄 Final_Cleaned_Dataset.csv
-    │
-    └── 📄 README.md
+Based on the analysis, the following recommendations can be made:
+
+- Customers should compare laptops based on both **price and specifications** before purchasing.
+- Processor, RAM, storage, and display specifications should be considered according to the intended usage.
+- Retailers can focus on popular **processor, RAM, and storage configurations** to meet customer demand.
+- Pricing strategies can be improved by analyzing the relationship between specifications and product prices.
+- Customer ratings and reviews can be considered as supporting factors when comparing products.
+- Premium-priced laptops should provide additional value through better performance and advanced specifications.
+
+---
+
+## 🏁 13. Conclusion
+
+This project demonstrates an end-to-end **data analytics workflow** using real-world laptop data collected from Flipkart.
+
+The project covers **web scraping, data cleaning, feature extraction, data transformation, exploratory data analysis, visualization, and business insight generation**.
+
+The analysis provides a better understanding of laptop pricing, processor categories, RAM, storage, display specifications, ratings, and premium laptop segments.
+
+Overall, the project demonstrates how raw e-commerce data can be transformed into **structured information and meaningful business insights** to support product comparison and market analysis.
+
+---
+
+## ⚠️ 14. Challenges Faced
+
+During the project, several challenges were encountered:
+
+- Handling dynamically changing product listing pages.
+- Extracting consistent information from unstructured product descriptions.
+- Managing missing and inconsistent values in the scraped data.
+- Cleaning price, rating, and specification fields.
+- Extracting individual specifications from the combined `features` column.
+- Handling variations in processor, RAM, storage, and display formats.
+- Removing duplicate and incomplete records.
+- Converting extracted text values into suitable formats for analysis.
+
+---
+
+## 🚀 15. Future Improvements
+
+The project can be further enhanced by:
+
+- Automating regular laptop data collection from e-commerce websites.
+- Comparing laptop prices across multiple e-commerce platforms.
+- Building an interactive **Power BI dashboard** for laptop market analysis.
+- Developing a **laptop recommendation system** based on user requirements and budget.
+- Applying Machine Learning techniques for **laptop price prediction**.
+- Performing competitor and market comparison analysis.
+- Tracking laptop price changes over time.
+- Including additional product attributes for deeper analysis.
