@@ -1,0 +1,551 @@
+Brand,Processor,RAM_gb,SSD_gb,Display_cm,Price_rupee,Discount_pct,Rating
+Lenovo,Intel Core Ultra 9,16,512,35.6,139990,39.0,4.2
+MOTOROLA,Intel Core 5,16,512,35.6,66990,50.0,4.4
+Lenovo,MediaTek Kompanio 520,4,,29.5,22544,13.0,4.0
+Acer,AMD Ryzen 3 Quad Core,8,256,39.6,36990,30.0,4.1
+Ultimus,Intel Core i5,8,512,35.8,45990,,3.6
+Lenovo,Intel Core i7,16,512,39.6,280690,,4.4
+WarnerCann,Intel Core N,12,256,38.9,28446,28.0,4.0
+HP,AMD Athlon Dual Core,8,256,39.6,47905,4.0,4.1
+Prittec,Intel Pentium Quad Core,8,256,35.6,24990,7.0,
+ASUS,Intel Celeron Dual Core,4,,39.6,24990,,4.1
+DELL,Intel Core Ultra 5,16,512,35.6,98040,,4.3
+Apple,Apple M5,16,512,34.5,142990,4.0,4.7
+MSI,Intel Core i5,16,512,35.6,52990,28.0,4.2
+Primebook,MediaTek Helio G99 (MT8781),8,,35.8,28490,28.0,4.4
+ASUS,Intel Core 5,32,512,39.6,74990,34.0,4.2
+Lenovo,Intel Core i7,16,1024,39.6,269890,,4.7
+DELL,Snapdragon X,16,512,35.6,61990,29.0,4.2
+Samsung,Intel Core i3,8,512,39.6,51990,9.0,4.4
+ASUS,Intel Core 3,8,512,35.6,56990,43.0,
+MOTOROLA,Intel Core Ultra 5,16,512,35.6,84990,41.0,4.5
+Acer,Intel Core i5,8,512,35.6,57990,35.0,5.0
+Acer,AMD Ryzen 3 Quad Core,8,512,39.6,46990,6.0,4.1
+GIGABYTE,AMD Ryzen 7,16,512,40.6,139990,32.0,4.3
+Lenovo,Intel Celeron Dual Core,4,,29.5,16990,53.0,3.8
+Samsung,Intel Core Ultra 5,16,512,39.6,86990,13.0,4.6
+Prittec,Intel Celeron Dual Core,8,256,35.6,25795,4.0,3.8
+MSI,Intel Core i5,16,1024,39.6,96990,,4.2
+Acer,Intel Core Ultra 5,16,512,35.6,67900,32.0,4.5
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,51499,15.0,4.1
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,50990,8.0,4.2
+HP,Intel Core 5,16,512,39.6,94990,,4.3
+HP,Intel Core i3,8,512,39.6,53390,17.0,4.2
+ASUS,Intel Core Ultra 5,16,512,40.6,92990,55.0,
+MOTOROLA,Intel Core 5,16,512,35.6,72990,22.0,4.4
+Acer,AMD Ryzen 5 Hexa Core,16,512,39.6,56990,36.0,4.2
+HP,AMD Ryzen 5 Hexa Core,8,512,39.6,55991,13.0,4.2
+ASUS,AMD Ryzen 7,16,1024,39.6,79990,12.0,4.4
+Acer,Intel Celeron Dual Core,8,256,29.5,34642,19.0,3.7
+ASUS,Intel Core 3,16,512,39.6,65990,40.0,
+ASUS,Intel Core 3,8,512,39.6,56990,43.0,
+DELL,AMD Ryzen 5 Quad Core,8,512,39.6,53490,18.0,4.1
+ASUS,Intel Celeron Dual Core,4,,39.6,26990,,4.0
+ASUS,Intel Core 3,16,512,35.6,65990,12.0,4.4
+Acer,AMD Ryzen 3,8,512,39.6,43236,38.0,3.8
+DELL,Intel Core i5,8,512,39.6,66990,4.0,4.2
+Primebook,MediaTek MT8788,4,,29.5,27990,,4.2
+Acer,AMD Ryzen 3 Octa Core,8,256,39.6,42895,25.0,3.9
+ASUS,Intel Core 7,32,512,35.6,99900,13.0,4.4
+Samsung,Intel Core i5,16,512,39.6,77490,31.0,4.4
+ASUS,AMD Ryzen 7 Octa Core,16,512,39.6,55990,26.0,4.3
+Lenovo,Snapdragon X,16,512,38.4,66990,22.0,4.6
+HP,Snapdragon X,16,512,35.6,71690,16.0,4.3
+Acer,AMD Ryzen 3 Quad Core,8,512,39.6,45990,8.0,4.7
+ASUS,Intel Core i3,8,512,35.6,49990,10.0,4.3
+DELL,AMD Ryzen 5 Quad Core,8,512,39.6,54990,9.0,4.2
+Acer,AMD Ryzen 3,8,512,39.6,43999,16.0,4.0
+Acer,AMD Ryzen 3,8,256,39.6,40990,18.0,4.0
+Acer,Intel Core 5,16,512,39.6,104690,9.0,4.2
+ASUS,Intel Core i3,8,512,35.6,49999,1.0,4.1
+Acer,Intel Core Ultra 5,8,512,39.6,59990,14.0,
+HP,Intel Core i5,16,512,35.6,69990,24.0,4.2
+ASUS,Intel Core i3,12,512,39.6,52990,32.0,4.3
+ASUS,Intel Core Ultra 5,16,512,35.6,92990,61.0,4.5
+HP,Intel Core 3,8,512,39.6,52999,8.0,4.5
+Acer,Intel Core 3,8,512,35.6,49990,47.0,4.3
+Samsung,Snapdragon X,16,512,39.6,69990,24.0,4.4
+HP,AMD Ryzen 7 Octa Core,16,512,39.6,69990,27.0,4.0
+HP,Intel Core 5,24,512,39.6,114990,32.0,4.3
+ASUS,Intel Core 5,16,512,39.6,78269,,4.3
+Thomson,Intel Core i3,8,512,39.6,44990,,3.7
+ASUS,Intel Core i3,8,512,39.6,50990,32.0,4.3
+Lenovo,Intel Core i5,16,512,39.6,72297,27.0,4.3
+ASUS,Intel Core Ultra 5,16,512,35.6,86498,6.0,4.4
+Lenovo,Intel Core i5,16,512,38.9,76990,35.0,4.1
+ASUS,AMD Ryzen 3 Quad Core,8,512,39.6,57990,20.0,4.3
+DELL,Intel Core i5,16,1024,39.6,79990,13.0,4.2
+ASUS,Intel Core i3,16,512,39.6,61250,12.0,4.3
+HP,Intel Core i3,8,512,39.6,55990,5.0,4.1
+HP,AMD Ryzen 7 Octa Core,24,1024,39.6,144740,3.0,4.5
+Acer,Intel Core i3,8,512,35.6,52650,20.0,4.3
+ASUS,AMD Ryzen AI 7 Hexa Core,16,512,40.6,86990,28.0,4.8
+HP,AMD Athlon Dual Core,8,256,39.6,50672,7.0,4.0
+Acer,Intel Celeron Dual Core,12,256,35.6,29999,,3.8
+MSI,Intel Core i3,8,512,35.6,54991,1.0,4.4
+Acer,MediaTek MediaTek Kompanio 540,4,,39.6,36900,30.0,
+Samsung,Intel Core i5,8,512,39.6,78189,,4.4
+ASUS,AMD Ryzen 7 Octa Core,16,512,39.6,79990,15.0,4.4
+ASUS,Intel Core Ultra 9,32,2048,40.6,489990,17.0,
+HP,Intel Core 5,16,512,35.6,72990,,4.1
+Acer,AMD Ryzen 7 Octa Core,16,1024,39.6,75990,5.0,4.1
+Acer,Intel Core i3,8,512,39.6,53323,11.0,
+HP,Intel Core i3,16,512,39.6,50903,,4.2
+Lenovo,AMD Ryzen 5 Quad Core,16,512,39.6,71597,28.0,4.0
+Lenovo,Intel Core Ultra 9,32,1024,35.6,169000,15.0,4.3
+DELL,Intel Core i5,8,512,39.6,66990,4.0,4.1
+MSI,AMD Ryzen 5 Hexa Core,8,512,35.6,68991,12.0,4.3
+Acer,AMD Ryzen 3 Quad Core,8,512,39.6,46599,22.0,4.1
+MSI,Intel Core i7,16,1024,35.6,97990,10.0,4.3
+HP,Intel Core Ultra 7,16,512,35.6,96900,3.0,4.1
+Lenovo,AMD Ryzen 5 Quad Core,16,512,39.6,72190,,4.1
+Acer,AMD Ryzen 3 Quad Core,8,256,39.6,45900,23.0,4.1
+ASUS,Intel Core Ultra 9,32,1024,40.6,293000,15.0,4.6
+ASUS,Intel Core 5,16,512,39.6,73990,,4.5
+MSI,Intel Core i7,32,1024,35.6,92990,25.0,4.3
+ASUS,Intel Celeron Dual Core,4,,35.6,28425,21.0,3.9
+DELL,Intel Core 3,8,512,39.6,57490,8.0,4.1
+DELL,Intel Core i5,8,512,39.6,62515,5.0,4.2
+ASUS,Intel Core 3,16,512,39.6,101990,,4.4
+ASUS,AMD Ryzen 7,16,1024,40.6,139990,53.0,4.7
+HP,Intel Core i5,16,512,39.6,62526,,4.3
+ASUS,Intel Core 3,16,512,39.6,69990,24.0,3.7
+Lenovo,Intel Core i5,16,512,39.6,70990,,4.2
+MSI,AMD Ryzen 5 Hexa Core,16,512,39.6,88389,16.0,4.3
+ASUS,Intel Core 3,16,512,39.6,69990,31.0,4.4
+Lenovo,Intel Core i7,16,512,39.6,131290,,4.4
+ASUS,Intel Core Ultra 7,16,512,40.6,102990,46.0,4.8
+ASUS,Snapdragon X,16,512,40.6,77705,36.0,4.5
+HP,Intel Core Ultra 7,32,1024,35.6,160689,,4.6
+ASUS,AMD Ryzen 3 Quad Core,16,512,39.6,58990,35.0,4.3
+Acer,AMD Ryzen 3,8,256,39.6,34990,46.0,
+HP,AMD Ryzen AI 7 Octa Core,24,1024,40.6,169996,1.0,4.5
+MSI,Intel Core Ultra 7,32,1024,40.6,139990,22.0,4.7
+DELL,AMD Ryzen 5 Hexa Core,16,512,39.6,67886,10.0,4.3
+MSI,AMD Ryzen 5 Hexa Core,16,512,39.6,86991,12.0,4.4
+Acer,Intel Core i5,16,512,40.6,129999,,4.4
+ASUS,Intel Core Ultra 7,32,1024,35.6,156128,8.0,4.1
+Lenovo,Intel Core i5,12,512,39.6,80090,,4.3
+Acer,Intel Core i3,16,512,39.6,64900,5.0,4.1
+Lenovo,AMD Ryzen 5 Hexa Core,16,512,39.6,63599,1.0,4.2
+ASUS,Intel Core Ultra 5,16,512,40.6,91990,42.0,
+ASUS,Intel Core Ultra 7,16,512,35.6,110990,6.0,4.5
+Lenovo,Intel Core i5,16,512,39.6,103000,,4.3
+Lenovo,AMD Ryzen 5 Hexa Core,8,512,39.6,58499,4.0,4.2
+Acer,Intel Core i7,16,1024,40.6,144999,,4.4
+HP,AMD Athlon Dual Core,8,256,39.6,47704,10.0,4.1
+ASUS,Snapdragon X,16,512,35.6,65990,29.0,4.5
+Lenovo,Intel Core i5,16,512,38.9,83492,6.0,4.3
+HP,Intel Core 5,8,512,39.6,72899,8.0,4.7
+ASUS,Snapdragon X,16,512,40.6,72990,26.0,4.5
+ASUS,Intel Core 5,8,512,39.6,66990,58.0,4.3
+Apple,Apple M3,8,512,38.1,154900,,4.6
+MICROSOFT,Snapdragon X Plus,16,256,30.5,136782,6.0,4.5
+Apple,Apple M2,8,512,34.5,109900,,4.7
+HP,Snapdragon X,16,512,35.6,78990,20.0,
+Apple,Apple M5 Max,48,2048,40.6,619900,,
+ASUS,Intel Core 5,16,512,39.6,76170,11.0,
+MSI,Intel Core i5,16,512,35.6,74990,24.0,4.3
+Acer,AMD Ryzen 3,8,512,39.6,47397,19.0,4.4
+Acer,Intel Celeron Dual Core,12,512,35.6,42497,1.0,3.9
+ASUS,Intel Core N,8,,35.6,47683,4.0,
+Primebook,MediaTek Helio G99 (MT8781),8,,29.5,25490,31.0,4.3
+ASUS,Intel Core i7,16,512,39.6,76990,23.0,4.3
+Acer,Intel Core i3,8,512,35.6,43999,,4.2
+Acer,Intel Core Ultra 7,16,1024,40.6,213999,,4.5
+Acer,AMD Ryzen 3 Dual Core,8,512,35.6,38165,23.0,3.7
+Lenovo,Intel Core Ultra 7,32,1024,40.6,229990,13.0,4.7
+HP,AMD Athlon Dual Core,8,256,39.6,50990,7.0,4.1
+ASUS,Intel Core i3,8,512,39.6,56468,4.0,4.4
+ASUS,Intel Core i5,8,512,39.6,46990,32.0,4.2
+Acer,Intel Celeron Dual Core,8,256,29.5,36463,18.0,3.7
+HP,Intel Core i3,8,512,39.6,53390,21.0,4.2
+ASUS,Snapdragon X,16,512,40.6,77638,21.0,4.5
+ASUS,Intel Celeron Dual Core,8,,39.6,42999,6.0,3.7
+ASUS,AMD Ryzen 7 Octa Core,16,1024,39.6,75990,13.0,4.4
+Acer,Intel Core i5,8,512,35.6,58999,,4.2
+ASUS,Intel Core i5,16,512,39.6,90991,25.0,3.5
+Samsung,Intel Core Ultra X7,32,1024,35.6,214990,26.0,5.0
+Apple,Apple M5 Pro,48,1024,40.6,431900,,
+HP,AMD Ryzen 7 Hexa Core,16,512,39.6,116990,8.0,4.4
+HP,Intel Core i3,8,512,39.6,54990,1.0,4.2
+WINGS,Intel Core i5,8,512,39.6,59999,,4.1
+ASUS,Intel Core i5,16,512,40.6,74499,15.0,
+HP,Intel Core i7,16,512,39.6,95647,,
+ASUS,Intel Athlon Dual Core,4,32,29.5,29450,13.0,1.0
+Acer,AMD Ryzen 3 Quad Core,8,512,39.6,45990,8.0,
+Acer,Intel Celeron Dual Core,12,512,39.6,41016,17.0,3.8
+Acer,Intel Core i5,8,512,39.6,56990,18.0,4.8
+Apple,Apple M3,16,1024,33.0,174900,,
+Lenovo,Intel Celeron Dual Core,4,256,29.5,27290,30.0,3.7
+HP,Intel Core i3,8,512,39.6,56729,12.0,4.2
+ASUS,AMD Ryzen 5 Hexa Core,16,512,39.6,67990,60.0,4.3
+Lenovo,AMD Ryzen 5 Hexa Core,16,512,39.6,63990,9.0,4.4
+MSI,Intel Core i7,16,1024,38.1,64990,9.0,4.2
+HP,AMD Ryzen 5 Hexa Core,16,512,38.9,88500,10.0,4.2
+Acer,AMD Ryzen 5 Hexa Core,16,512,39.6,58980,1.0,4.1
+Lenovo,MediaTek MediaTek Kompanio 528,4,,29.5,28200,33.0,3.9
+Lenovo,Intel Core i5,16,512,38.9,73407,26.0,4.3
+ASUS,Intel Celeron Dual Core,8,,39.6,36792,7.0,4.0
+ASUS,Intel Core i5,8,512,39.6,69974,,4.2
+Lenovo,Intel Celeron Dual Core,4,256,39.6,41000,4.0,3.9
+Apple,Apple M3,8,512,33.0,134900,,4.6
+Lenovo,Intel Core i5,16,512,39.6,109999,12.0,4.5
+DELL,Intel Core Ultra 7,16,512,35.6,111258,,4.6
+HP,Intel Core i5,16,512,39.6,76354,,4.3
+ASUS,Intel Core i5,16,512,40.6,75658,11.0,4.4
+HP,Intel Core i3,16,512,39.6,59500,14.0,4.0
+ASUS,Intel Core i3,12,512,39.6,66254,15.0,3.4
+Acer,Intel Core i3,8,512,39.6,48785,18.0,4.0
+ASUS,AMD Ryzen 5 Quad Core,8,512,39.6,46990,29.0,4.2
+Acer,Intel Core i7,16,1024,40.6,154990,45.0,
+Acer,Intel Core i5,8,512,35.6,55999,,2.9
+Acer,Intel Core i5,16,512,35.6,93999,,4.3
+ASUS,Intel Core Ultra 5,16,512,40.6,92265,,4.3
+Acer,Intel Celeron Dual Core,8,,35.6,35999,,3.8
+MSI,Intel Core i5,16,512,39.6,93234,2.0,4.3
+Acer,Intel Core i3,8,512,39.6,58847,1.0,
+Acer,Intel Core i3,8,512,39.6,43999,,4.2
+Acer,Intel Core i5,16,512,39.6,68722,15.0,
+Apple,Apple M5,32,1024,35.6,287900,,
+HP,Intel Core i7,16,512,35.6,84490,20.0,
+Apple,Apple M5 Pro,24,1024,40.6,359900,,
+HP,Intel Core i5,16,512,40.6,78778,,4.4
+Acer,Intel Core i7,16,1024,35.6,110999,,4.3
+ASUS,AMD Ryzen 3 Quad Core,8,512,39.6,43990,13.0,4.3
+Acer,Intel Core i5,16,512,35.6,69990,36.0,
+HP,AMD Ryzen 3 Dual Core,8,512,39.6,50990,5.0,4.1
+ASUS,Intel Core 3,8,512,35.6,61990,11.0,4.4
+HP,AMD Ryzen 5 Hexa Core,8,512,39.6,63628,,4.2
+Acer,Intel Core i5,8,512,39.6,89999,,4.3
+ASUS,Intel Core 5,16,512,35.6,68990,6.0,4.3
+Lenovo,Intel Core i5,16,512,39.6,104511,6.0,4.0
+Acer,Intel Celeron Dual Core,8,512,39.6,45121,3.0,3.8
+HP,Intel Core i3,8,512,39.6,55990,15.0,4.2
+ASUS,Intel Core i3,8,256,35.6,45990,,4.3
+Acer,Intel Celeron Dual Core,12,500,35.6,41499,20.0,2.5
+HP,Intel Core i5,8,512,35.6,69990,,4.0
+ASUS,AMD Ryzen 5 Hexa Core,16,512,35.6,67990,60.0,4.3
+ASUS,Snapdragon X,16,512,35.6,65068,20.0,4.4
+ASUS,Intel Core i9,16,512,39.6,139533,4.0,4.2
+ASUS,Intel Core 5,32,512,35.6,85045,14.0,4.2
+Acer,Intel Celeron Dual Core,12,512,39.6,41990,16.0,3.7
+ASUS,AMD Ryzen 7,16,1024,35.6,84990,26.0,4.5
+MICROSOFT,Snapdragon X Plus,16,512,30.5,123490,10.0,4.8
+HP,Intel Core i3,8,256,35.6,55990,5.0,4.3
+DELL,Intel Core Ultra 5,16,512,39.6,88400,17.0,4.2
+Acer,Intel Core i3,8,256,35.6,48855,12.0,4.2
+ASUS,Snapdragon X,16,512,35.6,71909,22.0,
+HP,Intel Core i7,16,1024,40.9,189999,5.0,4.1
+ASUS,Intel Core i7,16,1024,40.6,190319,4.0,4.5
+ASUS,Intel Core i9,16,1024,39.6,120890,22.0,4.4
+Acer,Intel Core i7,16,512,39.6,152864,4.0,3.0
+ASUS,Intel Core i5,16,1024,39.6,88000,24.0,
+HP,Intel Core 3,8,512,39.6,53390,23.0,4.0
+Acer,Intel Core Ultra 5,16,512,35.6,84999,,4.2
+ASUS,Intel Core i5,8,512,39.6,69010,23.0,4.2
+Lenovo,Intel Core i7,16,1024,39.6,174299,7.0,4.2
+ASUS,Intel Core i7,16,1024,40.6,196390,14.0,5.0
+Lenovo,Intel Core i5,8,512,39.6,67990,24.0,4.3
+ASUS,Intel Celeron Dual Core,8,,39.6,41683,16.0,3.6
+HP,Intel Core i5,16,512,39.6,104500,3.0,4.3
+ASUS,Intel Core Ultra 5,16,512,40.6,123409,9.0,4.3
+MSI,Intel Core Ultra 5,16,1024,33.8,94990,15.0,4.2
+MSI,Intel Core i3,16,512,38.1,58990,10.0,4.2
+ASUS,Intel Core i3,8,512,39.6,55990,6.0,4.3
+HP,Intel Core i3,8,512,39.6,51134,,4.2
+HP,AMD Ryzen 5 Quad Core,8,512,39.6,57951,10.0,4.3
+HP,Intel Core i5,16,512,35.6,79990,20.0,4.4
+MSI,Intel Core i5,16,512,39.6,77274,2.0,4.3
+ASUS,Intel Core i5,8,512,39.6,71366,20.0,4.3
+HP,AMD Ryzen 7 Octa Core,16,512,39.6,76769,3.0,4.1
+ASUS,AMD Ryzen 9 16 Core,16,1024,40.6,220990,7.0,
+HP,AMD Ryzen 5,16,512,35.6,86999,20.0,
+ASUS,Intel Core i5,16,512,40.6,95991,11.0,4.3
+Lenovo,AMD Ryzen 7 Octa Core,16,512,39.6,71290,,4.2
+HP,Intel Core i5,16,512,35.6,78090,5.0,4.2
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,50790,10.0,4.0
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,49990,16.0,4.4
+ASUS,Intel Core i3,8,512,39.6,56799,16.0,3.7
+ASUS,Intel Core i5,16,512,40.6,92499,7.0,
+ASUS,Intel Core i5,16,512,39.6,75327,5.0,4.2
+ASUS,AMD Ryzen 7 Hexa Core,16,512,39.6,98900,10.0,5.0
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,54990,6.0,4.2
+Lenovo,Intel Core i7,16,1024,39.6,168990,15.0,4.5
+MSI,Intel Core Ultra 7,16,1024,40.6,99990,25.0,4.8
+HP,Qualcomm Snapdragon X,16,1024,35.6,89934,18.0,
+Samsung,Intel Core Ultra 7,16,512,39.6,139770,20.0,4.4
+DELL,Intel Core 7,16,512,35.6,94135,,4.7
+MSI,Intel Core Ultra 5,16,1024,39.6,107990,,
+HP,Intel Core 7,16,512,39.6,119990,40.0,
+DELL,Intel Core 3,8,512,35.6,57890,3.0,4.0
+ASUS,AMD Ryzen 5 Hexa Core,8,512,35.6,73990,,4.5
+ASUS,Intel Celeron Dual Core,4,,35.6,34420,18.0,3.8
+Lenovo,Intel Core i7,16,1024,39.6,167000,4.0,4.5
+HP,Intel Core i5,8,512,39.6,89241,15.0,4.3
+HP,Intel Core 3,16,512,35.6,55800,6.0,3.8
+ASUS,Intel Core 5,16,512,40.6,113990,41.0,
+HP,AMD Ryzen 5 Hexa Core,8,512,35.6,67931,,4.4
+MSI,Intel Core i5,16,512,35.6,65499,3.0,4.4
+HP,Intel Core i5,8,512,39.6,69799,,4.2
+HP,Intel Core 3,16,512,39.6,69985,7.0,4.2
+HP,Intel Core i5,16,512,39.6,72991,15.0,
+DELL,Intel Core i5,16,512,39.6,76990,10.0,4.3
+HP,AMD Ryzen 7,16,512,39.6,80038,16.0,2.3
+ASUS,Intel Core Ultra 7,16,512,40.6,122146,24.0,4.5
+Acer,Intel Core i5,16,512,35.6,53000,,4.2
+DELL,AMD Ryzen 5 Quad Core,8,512,39.6,54975,16.0,4.1
+ASUS,Intel Core i5,16,512,39.6,81160,18.0,4.3
+Acer,Intel Core Ultra 5,16,512,35.6,91990,23.0,4.2
+ASUS,Intel Core i5,16,512,40.6,93207,5.0,4.3
+DELL,Intel Core i5,8,512,39.6,72999,3.0,3.8
+Lenovo,Intel Core i5,16,512,39.6,69990,22.0,4.2
+ASUS,Intel Core i5,16,512,40.6,98499,,
+Lenovo,Intel Core i5,16,512,38.9,76739,23.0,4.4
+HP,AMD Ryzen 5 Hexa Core,8,512,39.6,58990,10.0,3.9
+MSI,Intel Core Ultra 7,16,1024,35.6,94990,15.0,3.4
+HP,AMD Ryzen 5 Hexa Core,8,512,39.6,56890,17.0,4.6
+ASUS,AMD Ryzen 5 Hexa Core,16,512,39.6,100000,2.0,4.4
+ASUS,Intel Core 3,16,512,35.6,51990,30.0,4.3
+HP,AMD Ryzen 5 Hexa Core,16,1024,39.6,69046,14.0,4.3
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,50201,10.0,
+Acer,Intel Core i5,16,512,39.6,78500,12.0,3.5
+HP,Snapdragon X,16,1024,40.6,105299,,4.3
+ASUS,Intel Core 3,8,512,39.6,58499,16.0,4.3
+HP,Intel Core i5,16,512,35.6,72890,8.0,
+Acer,AMD Ryzen 3 Quad Core,8,512,39.6,46990,41.0,3.9
+ASUS,Intel Core i7,32,512,39.6,99890,31.0,
+Infinix,Intel Core i5,16,512,35.6,69990,,4.4
+ASUS,Intel Core 7,16,512,40.6,134519,5.0,4.4
+Acer,Intel Core i5,16,512,35.6,69990,,
+DELL,Intel Core i3,8,256,39.6,54781,,4.1
+HP,Intel Core i5,16,512,39.6,101564,9.0,4.3
+HP,Intel Core i5,8,512,39.6,79000,19.0,3.8
+ASUS,Intel Core Ultra 7,16,512,35.6,103990,37.0,4.3
+Lenovo,Intel Pentium Quad Core,4,,35.6,36690,,3.8
+DELL,Intel Core i3,8,512,35.6,56900,1.0,4.2
+Acer,Intel Core i3,16,512,39.6,49999,1.0,
+MSI,AMD Ryzen 5 Hexa Core,8,512,35.6,61990,,4.4
+Lenovo,Intel Core i5,16,512,39.6,113990,8.0,3.2
+ASUS,Snapdragon X,16,512,40.6,68500,19.0,4.2
+HP,Intel Core i5,16,512,35.6,95399,3.0,
+ASUS,Snapdragon Snapdragon X Elite,16,512,35.6,90990,7.0,2.9
+Avita,AMD Ryzen 5 Quad Core,8,512,35.8,51490,,3.1
+Acer,AMD Ryzen 7 Octa Core,16,512,39.6,107712,14.0,4.2
+ASUS,AMD Ryzen 3 Quad Core,8,512,39.6,57413,3.0,
+ASUS,Intel Core Ultra 5,16,512,35.6,74990,34.0,4.4
+HP,Intel Core i5,8,512,39.6,85656,10.0,4.3
+HP,Intel Core 7,24,1024,38.9,184990,25.0,
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,52891,3.0,
+Acer,AMD Ryzen 7 Octa Core,32,1024,35.6,98484,7.0,3.0
+HP,Intel Core i7,16,512,39.6,99990,9.0,4.4
+Infinix,Intel Core i3,16,512,40.6,59990,,4.3
+ASUS,AMD Ryzen 3 Quad Core,8,512,39.6,55690,7.0,
+MSI,Intel Core i5,16,512,39.6,89990,,4.6
+Acer,Intel Core 5,16,512,39.6,97563,2.0,4.2
+Infinix,Intel Core i7,16,512,40.6,84990,,4.1
+Acer,Intel Core i5,16,512,35.6,68990,6.0,4.3
+Acer,Intel Core i5,8,512,39.6,59990,,4.1
+HP,Intel Core i5,16,512,,91054,8.0,3.3
+Acer,Intel Core i5,12,512,39.6,65900,4.0,4.1
+Samsung,Intel Core Ultra 7,32,1024,40.6,209289,,4.1
+HP,Intel Core i7,8,512,39.6,100515,8.0,4.2
+Lenovo,Intel Core i7,16,1024,40.6,162373,,
+ASUS,Intel Core i7,32,1024,35.6,92990,22.0,4.3
+ASUS,AMD Ryzen 3 Quad Core,8,512,39.6,56990,5.0,
+Acer,Intel Core i3,8,512,39.6,53091,40.0,
+Acer,Intel Celeron Dual Core,4,,35.6,39989,,4.0
+Infinix,Intel Core i5,8,512,35.6,59999,,4.1
+ASUS,Intel Core Ultra 5,16,512,35.6,134990,25.0,4.4
+HP,Intel Core i5,16,512,39.6,118032,,2.2
+ASUS,AMD Ryzen 5 Hexa Core,16,512,39.6,72990,34.0,4.4
+Acer,Intel Core 5,32,512,35.6,87510,2.0,5.0
+ASUS,AMD Ryzen AI 5 Quad Core,16,512,40.6,87192,39.0,
+HP,Intel Core i7,16,1024,35.6,97990,,
+Lenovo,Intel Celeron Dual Core,4,,29.5,22590,27.0,3.6
+Acer,Intel Core i5,16,512,39.6,88378,10.0,4.2
+ASUS,Intel Core i3,16,512,39.6,68990,5.0,4.3
+HP,Intel Core i5,16,512,35.6,105000,15.0,4.7
+ASUS,AMD Ryzen 7,8,512,40.6,89990,34.0,
+ASUS,Intel Core i3,16,512,39.6,46990,14.0,4.3
+Acer,AMD Ryzen 5 Hexa Core,16,512,35.6,69999,,4.4
+HP,Intel Core i3,16,512,39.6,69990,12.0,4.2
+Lenovo,Intel Core i3,8,512,39.6,55800,6.0,4.5
+Lenovo,AMD Ryzen 7 Octa Core,16,512,39.6,70769,12.0,4.2
+HP,Intel Core i5,8,512,35.6,74991,16.0,4.2
+Acer,Intel Core i5,16,512,39.6,92499,6.0,4.1
+Acer,Intel Core i7,16,512,39.6,99999,,4.4
+ASUS,AMD Ryzen AI 9 12 Core,24,512,35.6,139899,21.0,4.1
+ASUS,Intel Core i5,16,512,40.6,98999,1.0,3.8
+Acer,Intel Core i3,8,256,39.6,52999,,4.0
+Acer,Intel Core i5,16,512,39.6,81999,17.0,4.2
+ASUS,Intel Celeron Dual Core,4,,29.5,33999,5.0,2.6
+Acer,Intel Celeron Dual Core,12,512,35.6,44100,22.0,3.8
+Infinix,Intel Core i7,16,1024,39.6,89990,,4.0
+ASUS,AMD Ryzen 5 Hexa Core,16,512,40.6,81990,29.0,4.4
+HP,AMD Ryzen 7 Octa Core,16,512,39.6,114590,5.0,4.4
+HP,AMD Athlon Dual Core,8,256,39.6,45099,2.0,3.2
+Acer,Intel Core i5,8,,39.6,73199,,3.9
+ASUS,AMD Ryzen 3,8,512,39.6,57990,25.0,
+Acer,Intel Pentium Gold,4,,35.6,37500,,4.0
+Infinix,Intel Core i7,8,512,35.6,64990,,3.3
+ASUS,Intel Core Ultra 5,16,512,40.6,95999,11.0,4.3
+Infinix,Intel Core Ultra 7,16,512,39.6,99990,,4.3
+HP,Intel Core 3,8,512,39.6,53935,19.0,3.9
+HP,Intel Core i3,12,512,39.6,54990,6.0,
+ASUS,Intel Core i5,8,512,39.6,61404,6.0,4.3
+Lenovo,Intel Core i3,16,512,35.6,57790,,4.2
+DELL,Intel Core i5,16,512,39.6,72900,8.0,3.9
+Acer,Intel Core i5,8,512,39.6,72327,3.0,4.2
+ASUS,Intel Core i5,16,512,39.6,74999,19.0,3.3
+MSI,Intel Core i5,8,512,33.8,106990,,4.8
+HP,Intel Core i5,16,1024,35.6,103420,1.0,4.3
+Avita,Intel Core i5,8,256,33.8,60990,,4.2
+Acer,Intel Core Ultra 5,16,512,35.6,75999,,4.0
+DELL,Intel Core i5,16,512,39.6,70500,14.0,3.9
+Lenovo,AMD Ryzen 5 Hexa Core,8,512,39.6,89990,10.0,4.4
+HP,Intel Core 3,8,512,39.6,53290,21.0,4.1
+Lenovo,Intel Core i5,8,256,39.6,49999,33.0,4.3
+ASUS,AMD Ryzen 9 Octa Core,32,1024,39.6,227990,,4.8
+ASUS,Snapdragon X,16,512,40.6,76599,14.0,
+MSI,Intel Core i7,8,512,39.6,103990,,4.8
+WarnerCann,Intel Core i5,8,256,35.6,35441,36.0,2.7
+HP,AMD Ryzen 7 Octa Core,16,1024,35.6,88933,20.0,3.2
+Acer,Intel Core i5,8,512,39.6,79999,20.0,4.2
+Acer,Intel Core i5,16,512,35.6,61590,16.0,4.0
+Infinix,Intel Core i5,16,512,35.6,64999,,4.0
+HP,AMD Ryzen 5 Quad Core,8,512,39.6,59980,11.0,4.2
+HP,Intel Core i3,8,512,35.6,56990,1.0,4.1
+HP,Intel Core i5,16,1024,35.6,84990,2.0,3.9
+Acer,Intel Core i5,8,,35.6,59500,,4.1
+Lenovo,Intel Celeron Dual Core,4,,29.5,22379,35.0,3.5
+HP,Intel Core 5,16,512,35.6,85299,2.0,
+HP,Intel Core i7,16,512,39.6,129990,1.0,
+Acer,Intel Core i5,8,512,35.6,62589,,4.5
+HP,Snapdragon X,16,512,35.6,144065,,4.3
+ASUS,AMD Ryzen 3 Quad Core,16,512,39.6,59690,14.0,4.2
+MSI,Intel Core Ultra 5,16,1024,35.6,109990,26.0,4.4
+Thomson,Intel Core i7,16,512,39.6,62990,10.0,
+HP,AMD Ryzen 5 Hexa Core,16,512,39.6,73706,18.0,2.3
+Acer,Intel Core i3,8,256,35.6,49999,,3.9
+Acer,Intel Core i5,16,512,39.6,88999,10.0,4.2
+DELL,Intel i5-1235U,8,512,38.0,62626,,4.1
+Lenovo,Intel Core i5,8,512,35.6,63995,19.0,4.5
+Acer,AMD Ryzen 5 Hexa Core,8,512,39.6,79999,,4.4
+Lenovo,AMD Ryzen 5 Quad Core,8,512,39.6,59990,16.0,4.2
+Acer,Intel Core Ultra 5,16,512,35.6,74497,16.0,3.1
+HP,AMD Ryzen 7 Octa Core,16,512,39.6,99004,,3.8
+ASUS,AMD Ryzen 5,8,512,39.6,66755,23.0,4.4
+MSI,Intel Core i7,32,2048,43.2,284990,14.0,
+MSI,Intel Core i7,32,2048,43.2,279990,15.0,
+ASUS,Intel Core i5,16,512,35.6,72990,15.0,4.5
+ASUS,AMD Ryzen 5 Quad Core,8,512,35.6,59500,14.0,4.5
+ASUS,AMD Ryzen 5,16,512,39.6,71990,28.0,4.4
+Lenovo,AMD Ryzen 7 Octa Core,16,512,40.6,88999,10.0,3.3
+HP,AMD Ryzen 5 Hexa Core,16,512,39.6,99004,,4.9
+HP,Intel Core i3,8,512,35.6,55890,6.0,3.9
+HP,Intel Core i3,8,512,39.6,52900,13.0,4.3
+Lenovo,Intel Core i5,16,512,35.6,75000,1.0,4.2
+DELL,Intel Core i3,8,512,35.6,59990,9.0,4.0
+DELL,AMD Ryzen 5,8,512,39.6,59000,14.0,4.7
+HP,Intel Core i7,16,512,39.6,94287,4.0,4.3
+DELL,Intel Core i5,16,512,40.6,88255,12.0,
+ASUS,Intel Core i5,16,512,35.6,77639,31.0,4.4
+Acer,Intel Core Ultra 7,16,1024,35.6,129999,,
+HP,Intel Core 3,8,512,39.6,55996,6.0,
+HP,AMD Ryzen 5 Quad Core,8,512,39.6,56919,5.0,3.8
+ASUS,Intel Core i5,16,512,39.6,75658,1.0,3.6
+Acer,AMD Ryzen 3,8,256,39.6,40990,31.0,
+Lenovo,AMD Ryzen 3 Quad Core,8,512,39.6,51990,5.0,4.1
+ASUS,Intel Core i3,16,512,39.6,59999,14.0,4.4
+HP,Intel Core i5,8,512,35.6,67980,15.0,3.1
+HP,AMD Ryzen 5 Hexa Core,16,512,39.6,68002,2.0,4.1
+ASUS,AMD Ryzen 3 Quad Core,8,512,35.6,53997,9.0,4.2
+HP,Intel Core Ultra 5,16,512,35.6,119990,36.0,
+HP,AMD Ryzen 5 Quad Core,8,512,35.6,57990,3.0,4.1
+Lenovo,AMD Ryzen 7,16,512,35.6,98991,40.0,
+Lenovo,Intel Core i5,8,512,35.6,69990,,3.9
+HP,Intel Core Ultra 5,16,512,35.6,87121,11.0,3.7
+HP,AMD Ryzen 3 Dual Core,8,256,39.6,34790,10.0,4.2
+HP,Intel Core Ultra 7,16,1024,35.6,150499,8.0,
+DELL,Intel Core 5,16,512,35.6,78990,12.0,3.5
+Lenovo,AMD Ryzen 7 Octa Core,8,512,39.6,63390,38.0,4.5
+HP,Intel Core i3,8,512,35.6,55790,6.0,4.3
+ASUS,Intel Core 5,16,512,39.6,82707,7.0,
+HP,Intel Core i3,8,512,39.6,57990,3.0,4.3
+HP,Intel Core 7,16,1024,35.6,129950,7.0,
+ASUS,Intel Core 3,8,512,35.6,47990,31.0,4.3
+HP,Intel Core 3,16,512,39.6,64990,1.0,4.2
+Acer,AMD Ryzen 7 Octa Core,16,1024,35.6,77990,13.0,4.4
+DELL,Intel Core i3,8,512,39.6,48990,19.0,4.3
+HP,Intel Core Ultra 5,16,512,35.6,84990,4.0,
+ASUS,Snapdragon X,8,256,40.6,62990,42.0,
+DELL,Intel Core Ultra 5,16,512,40.6,99490,2.0,4.1
+Acer,AMD Ryzen 5 Hexa Core,16,512,35.6,65999,13.0,4.0
+HP,AMD Ryzen 5 Hexa Core,16,512,35.6,68990,5.0,3.6
+DELL,Intel Core i3,8,512,39.6,58990,1.0,
+HP,Intel Core i5,8,512,35.6,79990,11.0,4.9
+MSI,Intel Core i7,16,512,39.6,106700,4.0,4.3
+HP,AMD Ryzen 3 Quad Core,8,512,39.6,58368,15.0,
+Lenovo,Intel Core i3,8,512,35.6,57590,21.0,4.6
+ASUS,Intel Core i3,8,512,35.6,63593,3.0,4.0
+Prittec,Intel Core i5,16,512,39.6,56250,13.0,
+ASUS,Intel Core i9,16,512,40.6,98999,6.0,
+Lenovo,Intel Core i5,16,1024,35.6,85200,13.0,4.2
+Acer,AMD Ryzen 7 Octa Core,16,512,35.6,75999,14.0,4.4
+DELL,Intel Core i5,16,512,37.9,95990,8.0,4.1
+HP,Intel Core i5,16,512,35.6,69990,12.0,4.2
+HP,AMD Athlon Dual Core,8,256,39.6,49891,5.0,3.7
+DELL,Intel Core i5,8,512,39.6,94990,13.0,4.4
+HP,Intel Core 3,16,512,35.6,69491,,3.2
+HP,AMD Ryzen 7 Octa Core,16,512,39.6,72980,6.0,4.1
+DELL,Intel Core i3,8,512,35.6,52000,14.0,3.9
+HP,AMD Ryzen 7 Octa Core,16,512,39.6,79947,7.0,4.2
+ASUS,AMD Ryzen 3 Quad Core,8,512,39.6,56387,10.0,4.3
+HP,AMD Ryzen 3 Dual Core,8,512,35.6,50890,5.0,3.9
+Acer,AMD Ryzen 3 Quad Core,8,512,39.6,49898,13.0,3.8
+HP,Intel Core i5,16,512,40.6,97563,2.0,4.5
+HP,Intel Core i3,8,512,39.6,55990,17.0,4.2
+HP,AMD Ryzen 3 Quad Core,16,512,39.6,62998,1.0,4.3
+HP,Intel Core i5,8,1024,39.6,72891,17.0,4.5
+Lenovo,AMD Ryzen 3 Quad Core,8,512,35.6,55990,13.0,4.3
+Acer,Intel Core Ultra 5,16,1024,35.6,85990,4.0,4.1
+Acer,AMD Ryzen 5 Hexa Core,16,512,,65938,1.0,
+ASUS,Intel Core i3,16,512,39.6,62550,6.0,4.3
+HP,Intel Core i3,8,512,39.6,55890,5.0,4.2
+HP,Intel Core i7,16,1024,39.6,111111,7.0,4.3
+ASUS,AMD Ryzen 3 Quad Core,8,512,35.8,41999,24.0,4.2
+HP,Intel Core i3,8,512,39.6,67790,1.0,4.4
+ASUS,Intel Core i3,16,512,39.6,46990,14.0,4.4
+ASUS,Intel Core i5,8,512,39.6,79999,10.0,
+ASUS,Intel Core i3,8,512,35.6,59959,7.0,4.2
+Acer,Intel Core i3,16,512,35.6,66650,1.0,4.3
+ASUS,Intel Core i5,16,512,39.6,79900,1.0,4.0
+ASUS,Intel Core i5,16,512,40.6,84541,12.0,
+Acer,Intel Core i3,8,512,,53990,3.0,
+ASUS,Intel Celeron Dual Core,4,,29.5,30990,22.0,
+Acer,Intel Core Ultra 5,16,1024,,87890,2.0,
+HP,Intel Core i3,8,512,35.6,57890,2.0,3.6
+HP,AMD Ryzen AI 5 Quad Core,16,512,40.6,74990,31.0,1.7
+HP,AMD Ryzen 5 Hexa Core,8,512,39.6,57890,17.0,4.2
+Acer,Intel Celeron Dual Core,8,,39.6,39890,,
+HP,AMD Ryzen 5 Dual Core,16,512,35.6,69990,,
+Acer,Intel Core i5,8,512,39.6,75999,5.0,4.1
+Acer,Intel Core Ultra 5,8,512,35.6,64990,27.0,
+Lenovo,AMD Ryzen AI 5 Quad Core,8,512,35.6,109990,35.0,
+Acer,AMD Ryzen 3,8,512,35.6,85999,,
+GIGABYTE,Intel Core i5,16,512,40.6,199300,,
+ASUS,Intel Core i7,16,512,35.6,139533,4.0,4.4
+HP,Intel Core i3,8,512,39.6,55990,6.0,
+Lenovo,Intel Core i5,16,512,39.6,76990,21.0,4.3
+DELL,Intel Core 3,8,512,35.6,69990,17.0,
+HP,Intel Core i3,8,512,39.6,55990,19.0,
+HP,Intel Core i5,16,512,39.6,111192,,4.2
+ASUS,Intel Core i5,16,512,35.6,90590,8.0,4.8
+HP,Intel Core i3,16,512,39.6,59990,9.0,
+DELL,AMD Ryzen 5 Dual Core,8,512,39.6,65900,5.0,4.5
+HP,Intel Core i3,8,512,39.6,54900,7.0,4.2
+Acer,Intel Core i3,8,512,35.6,51939,21.0,3.8
+HP,Intel Core i5,8,512,35.6,69990,6.0,4.2
+HP,Intel Core i5,8,512,39.6,72990,11.0,4.2
+HP,Intel Core i5,8,512,39.6,72990,3.0,4.2
